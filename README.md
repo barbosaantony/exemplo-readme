@@ -5,7 +5,7 @@
 * [introdução](#introdução)
 * [Funcionalidades](#fucionalidades)
 * [Tecnologias Utilizadas](#fontes-utilizadas)
-* [Fontes Utilizadas](#Fontes Utilizadas )
+* [Fontes Utilizadas](#fontes-utilizadas)
 * [Autores](#autores)
 # Projeto para escrita do README
 
