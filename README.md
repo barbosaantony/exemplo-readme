@@ -17,7 +17,11 @@ exemplo
 ## fucionalidades
  Dar um exemplo na sala de aula
 ## Tecnologias Utilizadas
-Tecnologias ultilizadas foram html e arquivo README
+* ``HTML5``
+* ``CSS3``
+* ``Github``
+* ``VSCode``
+* ``Git``
 ## Fontes Utilizadas 
 
 * [Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
